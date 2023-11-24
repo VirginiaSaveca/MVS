@@ -944,6 +944,9 @@ a:hover {
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   background-color: #fff;
+  
+  height: 500px;
+  width: 250px;
 }
 
 .work-box:hover img {
@@ -957,6 +960,10 @@ a:hover {
 
 .work-img img {
   transition: all 1s;
+  
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
 }
 
 .work-content {
@@ -1460,3 +1467,5 @@ footer .credits {
 footer .credits a {
   color: #fff;
 }
+/* Custom styles for portfolio cards */
+
