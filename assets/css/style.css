@@ -945,8 +945,8 @@ a:hover {
   backface-visibility: hidden;
   background-color: #fff;
   
-  height: 500px;
-  width: 250px;
+  height: 600px;
+  width: 350px;
 }
 
 .work-box:hover img {
